@@ -2,8 +2,10 @@
 
 ### Contacts:
 
-    -Email: dangerous8911@gmil.com
-    -Phone, Telegram, Viber: +375-33-6725232
+    -Email: *dangerous8911@gmil.com*
+    -Phone, Telegram, Viber: *+375-33-6725232*
+    -Discord: *Pershi (@Pershi1)*
+    -VK: *[Pershi (Aliaksandr Shuliak)](https://vk.com/pershii)*
 
 ### About me:
 
