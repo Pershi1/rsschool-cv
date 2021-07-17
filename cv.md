@@ -8,7 +8,6 @@
     -Viber:   **+375-33-6725232**
     -Discord: **Pershi (@Pershi1)**
     -VK:      [Pershi ](https://vk.com/pershii)
-    - VK: [AS.Korag](https://vk.com/as.korag)
 
 ### About me:
 
