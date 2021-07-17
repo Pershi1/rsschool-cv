@@ -25,4 +25,7 @@ I have completed rs-school front-end developer courses. My goal is to become a m
 2. [HTML](https://www.w3schools.com/html/default.asp)
 3. [Front-end Science c Сергеем Пузанковым](https://www.youtube.com/channel/UCmI5YBB9KJ0xLtFtgBX8rfw)
 4. [The Modern JavaScript Tutorial](https://learn.javascript.ru/)
- 
+
+### English level
+
+At the moment my level is A2, and this is my second goal - to learn to speak and understand well. 
