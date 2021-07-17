@@ -2,12 +2,12 @@
 
 ### Contacts:
 
-    -Email:   **dangerous8911@gmil.com**
-    -Phone:   **+375-33-6725232**
-    -Telegram:**+375-33-6725232**
-    -Viber:   **+375-33-6725232**
-    -Discord: **Pershi (@Pershi1)**
-    -VK:      **[Pershi (Aliaksandr Shuliak)](https://vk.com/pershii)**
+-Email:   *dangerous8911@gmail.com*
+-Phone:   **+375-33-6725232**
+-Telegram:**+375-33-6725232**
+-Viber:   **+375-33-6725232**
+-Discord: **Pershi (@Pershi1)**
+-VK:     [Pershi](https://vk.com/pershii)
 
 ### About me:
 
@@ -15,9 +15,9 @@ I have completed rs-school front-end developer courses. My goal is to become a m
 
 ### Skills
 
-    *HTML
-    *CSS
-    *JavaScript
+*HTML
+*CSS
+*JavaScript
     
 ### Education
 
