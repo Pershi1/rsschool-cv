@@ -2,12 +2,21 @@
 
 ### Contacts:
 
+<<<<<<< HEAD
 -Email:   *dangerous8911@gmail.com*
 -Phone:   **+375-33-6725232**
 -Telegram:**+375-33-6725232**
 -Viber:   **+375-33-6725232**
 -Discord: **Pershi (@Pershi1)**
 -VK:     [Pershi](https://vk.com/pershii)
+=======
+    -Email:    dangerous8911@gmil.com
+    -Phone:   **+375-33-6725232**
+    -Telegram:**+375-33-6725232**
+    -Viber:   **+375-33-6725232**
+    -Discord: **Pershi (@Pershi1)**
+    -VK:      [Pershi ](https://vk.com/pershii)
+>>>>>>> df5fb9ccc370c9e44ee61c2831c67d8102621765
 
 ### About me:
 
